@@ -1,0 +1,6 @@
+intitle:"*DEWA" site:xyz
+intext:"*DEWA" site:xyz
+inurl:/*DEWA site:xyz
+allintext:"*DEWA" site:xyz
+intext:"*MEGA" site:design
+inurl:/*MEGA site:design
